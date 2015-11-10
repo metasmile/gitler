@@ -19,7 +19,7 @@ optional arguments:
                         Overwrite .gitattributes. (Default=False - "Append")
 ```                        
 
-### How to run
+### What does this run?
 - set 'git config core.autocrlf' to true
 - Automatically generates .gitattributes based on real file formats('text' or 'binary')
 - Fix and clean your exists git repo safely.
